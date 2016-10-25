@@ -1,0 +1,6 @@
+model_checkpoint_path: "fnn-300000"
+all_model_checkpoint_paths: "fnn-260000"
+all_model_checkpoint_paths: "fnn-270000"
+all_model_checkpoint_paths: "fnn-280000"
+all_model_checkpoint_paths: "fnn-290000"
+all_model_checkpoint_paths: "fnn-300000"
